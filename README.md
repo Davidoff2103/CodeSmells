@@ -1,11 +1,1 @@
-# CodeSmells
-
-This repository demonstrates code smells and their refactoring solutions. Examples include but are not limited to:
-- Message Chains
-- Hide Delegate
-
-Each example includes:
-1. Problematic code with docstring
-2. Code smell analysis
-3. Refactored solution
-4. Before/after comparison
+# CodeSmells\n\n## Docstring Example\n\nThis repository demonstrates code smells and their refactoring solutions. Examples include but are not limited to:\n- Message Chains\n- Hide Delegate\n\nEach example includes:\n1. Problematic code with docstring\n2. Code smell analysis\n3. Refactored solution\n4. Before/after comparison\n\n## Test File\n\nThis is a test file with a comment added for demonstration purposes.
