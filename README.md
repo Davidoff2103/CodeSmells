@@ -1,10 +1,8 @@
 # CodeSmells
 
 This repository demonstrates code smells and their refactoring solutions. Examples include but are not limited to:
-- Primitive Obsession
-- Long Method
-- Duplicated Code
-- Switch Statements
+- Message Chains
+- Hide Delegate
 
 Each example includes:
 1. Problematic code with docstring
